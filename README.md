@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Reza!
 🚀 Automation Engineer | AI Enthusiast | Machine Learning & Robotics
 
-Passionate about bridging automation, AI, and control systems, I specialize in PLC programming, deep learning, and real-time industrial solutions. My work blends machine learning with industrial automation, optimizing processes for smarter and more efficient manufacturing.
+I hold a Master’s degree in Automation Engineering from Università di Bologna, where I specialized in AI-powered automation, control systems, and industrial intelligence. Passionate about bridging automation, AI, and control systems, I focus on PLC programming, deep learning, and real-time industrial solutions. My work integrates machine learning with industrial automation, optimizing processes for smarter and more efficient manufacturing.
 
 🔹 Tech: Python, TensorFlow, Scikit-learn, PLC (Siemens, Allen Bradley), SCADA, ROS
 
