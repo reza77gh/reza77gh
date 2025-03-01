@@ -9,6 +9,8 @@ I hold a Master’s degree in Automation Engineering from Università di Bologna
 
 🔹 Currently Exploring: Transfer learning for vibration analysis, real-time AI applications in automation
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=reza77gh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/reza77gh/github-readme-stats)
+
 <!--
 **reza77gh/reza77gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
