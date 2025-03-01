@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 Hey there, I'm Reza!
+🚀 Automation Engineer | AI Enthusiast | Machine Learning & Robotics
+
+Passionate about bridging automation, AI, and control systems, I specialize in PLC programming, deep learning, and real-time industrial solutions. My work blends machine learning with industrial automation, optimizing processes for smarter and more efficient manufacturing.
+
+🔹 Tech: Python, TensorFlow, Scikit-learn, PLC (Siemens, Allen Bradley), SCADA, ROS
+
+🔹 Interests: Industrial AI, Predictive Maintenance, Robotics, IoT
+
+🔹 Currently Exploring: Transfer learning for vibration analysis, real-time AI applications in automation
 
 <!--
 **reza77gh/reza77gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
